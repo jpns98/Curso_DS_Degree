@@ -20,5 +20,5 @@ Resumo do conteúdo de cada pasta:
 **Módulo 4** (Python) - Exercícios abosdando os seguintes tópicos: Pandas, Numpy, leitura de dados, limpeza de dados e transformação de dados. Além de um projeto final com uma análise Exploratória de dados envolvendo todos estes tópicos.  
 **Módulo 5** (Python) - Projeto final: análise exploratória de dados do módulo anterior com a inclusão de gráficos(pandas, matplotlib, plotly, seaborn).  
 **Módulo 6** (SQL) - Construção de bancos de dados, cada pasta possui um arquivo 'drawio' com a modelagem do banco de dados(diagramas) e um script SQL para a criação de um banco de dados com finalidades específicas (para simular o banco de dados de uma livraria, varejo, etc).  
-**Módulo 7** (Python) - Lista de exercícios relacionada aos seguintes tópicos: estatística básica, variáveis aleatórias, esperança, amostragem, estimação,Teorema Central do Limite, testes de hipótese.
+**Módulo 7** (Python) - Lista de exercícios relacionada aos seguintes tópicos: estatística básica, variáveis aleatórias,Análise Descritiva, esperança, amostragem, estimação, Teorema Central do Limite,Teorema de Bayes, testes de hipótese.
 
